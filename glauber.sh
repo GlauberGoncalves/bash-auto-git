@@ -1,8 +1,7 @@
 #!bin/sh
-
-echo "informe a mensagem"
-git config --global user.name "GlauberGoncalves"
+#inserindo comentario
+git config --global user.name "Glauber Gonçalves"
 git config --global user.email "sistemas.glauber@gmail.com"
 git add .
-git commit -m 'teste'
+git commit -m 'teste2'
 git push
